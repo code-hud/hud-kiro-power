@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "hud": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "hud-mcp@latest"
+      ],
+      "env": {
+        "HUD_MCP_KEY": "${HUD_MCP_KEY}"
+      }
+    }
+  }
+}
