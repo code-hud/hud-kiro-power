@@ -22,7 +22,7 @@ The schema includes:
 
 2. Get Skills for Common Scenarios
 
-**Use `hud-get-skill` for playbook guidance on specific scenarios:**
+**Use `hud-get-skill` for guidance on specific scenarios:**
 
 Read the "Available skills" in the tool, and check if the user's intent matches a description of a skill, if it is - call `hud-get-skill` with the relevant skill name. This tool provides:
 - Step-by-step investigation guidance
