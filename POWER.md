@@ -34,6 +34,7 @@ Always check the tool's description to see available skills and determine if one
 3. Query Hud
 
 After getting the schema, use `hud-query` to execute SQL queries and `hud-get-forensics` to retrieve detailed error instances including parameters, exception messages, stacktraces, machine metrics, traceIDs and more.
+To read files Hud put on the disk on a tmp folder, use bash commands.
 
 # Onboarding
 
@@ -42,7 +43,7 @@ After getting the schema, use `hud-query` to execute SQL queries and `hud-get-fo
 **Setup (choose one):**
 
 1. **IDE Extension (Recommended):** Install "Hud" from your IDE marketplace → Login via the extension panel
-2. **Environment Variable:** Set `HUD_MCP_KEY` env from Settings → from API Keys tab in your Hud dashboard (https://www.app.hud.io/settings/api-keys)
+2. **Environment Variable:** Set the environment variable `HUD_MCP_KEY` → take it from the API Keys tab in your Hud dashboard (https://www.app.hud.io/settings/api-keys)
 
 
 # Support
