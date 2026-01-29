@@ -43,7 +43,7 @@ To read files Hud put on the disk on a tmp folder, use bash commands.
 **Setup (choose one):**
 
 1. **IDE Extension (Recommended):** Install "Hud" from your IDE marketplace → Login via the extension panel
-2. **Environment Variable:** Set the environment variable `HUD_MCP_KEY` → take it from the API Keys tab in your Hud dashboard (https://www.app.hud.io/settings/api-keys)
+2. **Environment Variable:** Take the API key from the API Keys tab in your Hud dashboard (https://www.app.hud.io/settings/api-keys - contact support if a new API key is needed) → Set the environment variable `HUD_MCP_KEY` in ~/.kiro/settings/mcp.json under `power-hud-hud` ("env": {"HUD_MCP_KEY": "YOUR-API-KEY"})
 
 
 # Support

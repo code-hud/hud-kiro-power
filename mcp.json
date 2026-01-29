@@ -6,9 +6,7 @@
         "-y",
         "hud-mcp@prerelease"
       ],
-      "env": {
-        "HUD_MCP_KEY": "${HUD_MCP_KEY}"
-      }
+      "env": {}
     }
   }
 }
