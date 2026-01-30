@@ -1,7 +1,7 @@
 ---
 name: "hud"
-displayName: "Hud - Runtime Observability"
-description: "Production runtime observability platform for monitoring application performance, debugging issues, and analyzing code behavior in real-time"
+displayName: "Hud - Runtime Intelligence"
+description: "Production runtime intelligence platform for monitoring application performance, debugging issues, and analyzing code behavior in real-time"
 keywords: ["observability", "monitoring", "debugging", "performance", "tracing", "metrics", "logs", "apm", "runtime", "production", "error tracking", "profiling", "analytics"]
 ---
 
