@@ -2,7 +2,7 @@
 name: "hud"
 displayName: "Hud - Runtime Intelligence"
 description: "Production runtime intelligence platform for monitoring application performance, debugging issues, and analyzing code behavior in real-time"
-keywords: ["observability", "monitoring", "debugging", "performance", "tracing", "metrics", "logs", "apm", "runtime", "production", "error tracking", "profiling", "analytics"]
+keywords: ["observability", "monitoring", "debugging", "performance", "tracing", "metrics", "logs", "apm", "runtime", "production", "error tracking", "profiling", "analytics", "prod", "issue", "deployment", "slowdown"]
 ---
 
 # Hud Power
