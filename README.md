@@ -39,7 +39,6 @@ Hud is purpose-built for engineering teams using code-generating agents like Kir
 2. Click "Add power from GitHub"
 3. Enter: `https://github.com/code-hud/hud-kiro-power`
 
-
 ## What can you do with Hud and Kiro?
 
 ### 1 - Investigate Production Errors
@@ -56,6 +55,7 @@ Use prompts like:
 - Make sure no deployments from the last week caused a higher error rate
 
 ### 3 - Debug Slow Endpoints
+Use prompts like:
 - Why is `/api` slow in production?
 - Users are complaining that sometimes the product pages take a minute to load, why?
 - What's the endpoint with the highest P90 in `my_service`? Why is that happening? 
