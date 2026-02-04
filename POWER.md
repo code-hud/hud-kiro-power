@@ -1,8 +1,9 @@
 ---
 name: "hud"
-displayName: "Hud - Runtime Intelligence"
-description: "Production runtime intelligence platform for monitoring application performance, debugging issues, and analyzing code behavior in real-time"
+displayName: "Hud - Runtime Code Sensor"
+description: "Hud’s Runtime Code Sensor detects errors, performance degradations and CPU spikes in production, with the deep forensic context needed to fix them quickly with AI."
 keywords: ["observability", "monitoring", "debugging", "performance", "tracing", "metrics", "logs", "apm", "runtime", "production", "error tracking", "profiling", "analytics", "prod", "issue", "deployment", "slowdown"]
+author: "Hud"
 ---
 
 # Hud Power
