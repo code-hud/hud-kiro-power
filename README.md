@@ -1,7 +1,5 @@
 # Hud Power for Kiro
 
-[![Hud](./assets/Hud_logo.png)](https://hud.io)
-
 Production code runtime sensor for monitoring application performance, investigating issues, and analyzing code behavior in real-time. This power enables Kiro AI agents to query and analyze your production systems using Hud's data.
 
 ## About Hud
