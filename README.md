@@ -10,7 +10,7 @@ Production code runtime sensor for monitoring application performance, investiga
 
 Once deployed, Hud tracks how each function behaves in production—mapping execution patterns, surfacing behavioral changes, and delivering structured runtime signals without requiring logs or any manual work.
 
-Hud is purpose-built for engineering teams using code-generating agents like GitHub Copilot, Cursor, or Windsurf—and for teams that need to validate both AI-generated and human-written code against real runtime behavior.
+Hud is purpose-built for engineering teams using code-generating agents like Kiro.
 
 ## Features
 
@@ -25,11 +25,10 @@ Hud is purpose-built for engineering teams using code-generating agents like Git
 
 ### Prerequisites
 
-1. **Kiro**: This power requires [Kiro](https://kiro.dev) to be installed
-2. **Hud Account**: Sign up at [app.hud.io](https://app.hud.io)
-3. **Hud SDK**: Install the Hud SDK in your production services ([Node.js](https://docs.hud.io/docs/nodejs-installation) or [Python](https://docs.hud.io/docs/python-installation))
+1. **Hud Account**: Sign up at [app.hud.io](https://app.hud.io)
+2. **Hud SDK**: Install the Hud SDK in your production services ([Node.js](https://docs.hud.io/docs/nodejs-installation) or [Python](https://docs.hud.io/docs/python-installation))
 
-### Setup
+### Kiro Power Setup
 
 #### Install Hud IDE Extension
 
@@ -64,17 +63,8 @@ Use prompts like:
 - What's the endpoint with the highest P90 in `my_service`? Why is that happening? 
 
 
-## Support
+## Resources
 
 - **Documentation**: [docs.hud.io](https://docs.hud.io)
 - **Support Email**: support@hud.io
 - **Support Chat**: [app.hud.io](https://www.app.hud.io/?support_chat=true)
-- **GitHub**: [github.com/code-hud/hud-kiro-power](https://github.com/code-hud/hud-kiro-power)
-
-## Resources
-
-- [Hud Quick Start Guide](https://docs.hud.io/docs/quick-start-guide)
-- [Node.js SDK Installation](https://docs.hud.io/docs/nodejs-installation)
-- [Python SDK Installation](https://docs.hud.io/docs/python-installation)
-
-
