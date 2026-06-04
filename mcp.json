@@ -4,7 +4,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "hud-mcp@prerelease"
+        "hud-mcp@v2"
       ],
       "env": {}
     }
